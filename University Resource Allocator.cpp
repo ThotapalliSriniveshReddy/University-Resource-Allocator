@@ -43,7 +43,7 @@ void printname(){
 }
 friend class Btech;
 friend class DualDegree;
-friend class IITM;
+friend class NITR;
 
 };
 
@@ -106,7 +106,7 @@ void setTASupervisor(Faculty f){
     return;
 }
 
-friend class IITM;
+friend class NITR;
 
 };
 
@@ -157,7 +157,7 @@ void setBTPGuide(Faculty f){
 }
 
 
-friend class IITM;
+friend class NITR;
 
 };
 
@@ -165,7 +165,7 @@ friend class IITM;
 
 
 
-class IITM{
+class NITR{
 
     private:
 
